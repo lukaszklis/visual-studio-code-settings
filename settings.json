@@ -1,8 +1,8 @@
 {
     "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 13,
+    "editor.fontSize": 14,
     "editor.rulers": [120],
-    "editor.renderWhitespace": true,
+    "editor.renderWhitespace": "all",
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "search.exclude": {
